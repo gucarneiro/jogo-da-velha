@@ -121,7 +121,7 @@ Contribuições são sempre bem-vindas! Se você deseja ajudar a melhorar este p
 
 1. Faça o fork do projeto.
 2. Crie uma nova branch com a sua melhoria: `git checkout -b feature/minha-melhoria`
-3. Salve suas alterações e crie uma mensagem de commit detalhada: `git commit -m "feat: adiciona nova validação de datas"`
+3. Salve suas alterações e crie uma mensagem de commit detalhada: `git commit -m "feat: adiciona novo layout"`
 4. Envie suas alterações: `git push origin feature/minha-melhoria`
 5. Abra um Pull Request.
 
