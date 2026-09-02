@@ -53,7 +53,7 @@ Durante o desenvolvimento, precisei garantir que o sistema não apenas identific
 
 ### Pré-requisitos
 - [Java JDK 11 ou superior](https://www.oracle.com/java/technologies/downloads/) instalado na máquina.
-- Git
+- Git (opcional, para clonar o repositório).
 
 ### Passo a Passo
 
