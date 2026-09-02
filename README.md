@@ -117,12 +117,12 @@ Atualmente, o projeto não conta com frameworks de testes automatizados. As vali
 
 ## 🤝 Contribuição
 
-Contribuições são sempre bem-vindas!
+Contribuições são sempre bem-vindas! Se você deseja ajudar a melhorar este projeto, siga os passos abaixo:
 
-1. Faça um Fork do projeto.
-2. Crie uma branch para a sua feature: `git checkout -b feature/nova-feature`
-3. Commit suas mudanças: `git commit -m 'feat: adiciona nova funcionalidade'`
-4. Faça o push para a branch: `git push origin feature/nova-feature`
+1. Faça o fork do projeto.
+2. Crie uma nova branch com a sua melhoria: `git checkout -b feature/minha-melhoria`
+3. Salve suas alterações e crie uma mensagem de commit detalhada: `git commit -m "feat: adiciona nova validação de datas"`
+4. Envie suas alterações: `git push origin feature/minha-melhoria`
 5. Abra um Pull Request.
 
 ## 📄 Licença
